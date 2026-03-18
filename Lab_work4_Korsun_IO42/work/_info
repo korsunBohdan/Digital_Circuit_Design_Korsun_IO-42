@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Comp\Desktop\KPI\Git_repos_digital_circuit_design\Lab_work3_Korsun_IO42
+vEx2_XOR
+IV55^ALaIoQC2=5aacViaz2
+V>c0=ZgQ9Ehc>i4XHmQHUi3
+Z0 dC:\Users\Comp\Desktop\KPI\Git_repos_digital_circuit_design\Lab_work4_Korsun_IO42
+w1773865020
+8C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Ex2_Korsun_IO42_XOR.v
+FC:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Ex2_Korsun_IO42_XOR.v
+L0 1
+Z1 OV;L;10.1d;51
+r1
+31
+Z2 o-work work -O0
+n@ex2_@x@o@r
+!i10b 1
+!s100 1F6_SCgdl6Cmj5J5NUYLL1
+!s85 0
+!s108 1773865042.821000
+!s107 C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Ex2_Korsun_IO42_XOR.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Ex2_Korsun_IO42_XOR.v|
+!s101 -O0
+vLab3_NAND
+!s100 V=P8bo3zcL0D9l0;V3m771
+IW43m^kBNc5IScI2NS>f2<0
+VF_AP2ZGI99eKS:9RYNahY1
+Z3 dC:\Users\Comp\Desktop\KPI\Git_repos_digital_circuit_design\Lab_work4_Korsun_IO42
+w1773863237
+8C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Lab3_Korsun_IO42_NAND.v
+FC:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Lab3_Korsun_IO42_NAND.v
+L0 1
+R1
+r1
+31
+!s90 -reportprogress|300|-work|work|C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Lab3_Korsun_IO42_NAND.v|
+R2
+n@lab3_@n@a@n@d
+!s108 1773865042.662000
+!s107 C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Lab3_Korsun_IO42_NAND.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vLab3_OR
+!s100 R>Z?af1INzLl7>j?];mn82
+Ih^amS]coLWJQ=R=PlnaP;3
+VcLfRN<5:^iV]QUVo7HEQR3
+R3
+w1773863225
+8C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Lab3_Korsun_IO42_OR.v
+FC:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Lab3_Korsun_IO42_OR.v
+L0 1
+R1
+r1
+31
+!s90 -reportprogress|300|-work|work|C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Lab3_Korsun_IO42_OR.v|
+R2
+n@lab3_@o@r
+!s108 1773865042.755000
+!s107 C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Lab3_Korsun_IO42_OR.v|
+!i10b 1
+!s85 0
+!s101 -O0
