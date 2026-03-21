@@ -1,15 +1,8 @@
-C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Lab3_Korsun_IO42_OR.v {1 {vlog -work work C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Lab3_Korsun_IO42_OR.v
+C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Ex2_Korsun_IO42_XOR.v {1 {vlog -work work C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Ex2_Korsun_IO42_XOR.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module Lab3_OR
+-- Compiling module Ex2_XOR
 
 Top level modules:
-	Lab3_OR
-
-} {} {}} C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Lab3_Korsun_IO42_NAND.v {1 {vlog -work work C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Lab3_Korsun_IO42_NAND.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module Lab3_NAND
-
-Top level modules:
-	Lab3_NAND
+	Ex2_XOR
 
 } {} {}}

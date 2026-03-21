@@ -1,0 +1,9 @@
+add wave x3 x2 x1 f4_ddnf f4_dknf
+
+force x3 0 0ns, 1 80ns -repeat 160ns
+force x2 0 0ns, 1 40ns -repeat 80ns
+force x1 0 0ns, 1 20ns -repeat 40ns
+
+run 160ns
+
+wave zoom full
