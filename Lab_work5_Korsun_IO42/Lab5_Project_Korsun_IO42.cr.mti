@@ -1,0 +1,15 @@
+C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work5_Korsun_IO42/Lab5_Korsun_multiplexer.v {1 {vlog -work work C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work5_Korsun_IO42/Lab5_Korsun_multiplexer.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Lab5_Korsun_multiplexer
+
+Top level modules:
+	Lab5_Korsun_multiplexer
+
+} {} {}} C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work5_Korsun_IO42/tb_Lab5_Korsun_multiplexer.v {1 {vlog -work work C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work5_Korsun_IO42/tb_Lab5_Korsun_multiplexer.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_Lab5_Korsun_multiplexer
+
+Top level modules:
+	tb_Lab5_Korsun_multiplexer
+
+} {} {}}

@@ -1,0 +1,34 @@
+`timescale 1ns / 1ps
+
+module tb_Lab5_Korsun_multiplexer;
+    reg [7:0] d0, d1, d2, d3;
+    reg [1:0] sel;
+    wire [7:0] q;
+
+    Lab5_Korsun_multiplexer uut (
+        .d0(d0), 
+        .d1(d1), 
+        .d2(d2), 
+        .d3(d3), 
+        .sel(sel), 
+        .q(q));
+    initial begin
+        $display("Time\t sel \t d0       \t d1       \t d2       \t d3       \t | \t q");
+        $monitor("%0t\t %b \t %b \t %b \t %b \t %b \t | \t %b", $time, sel, d0, d1, d2, d3, q);
+
+        d0 = 8'b10101010; 
+        d1 = 8'b10111011; 
+        d2 = 8'b11001100; 
+        d3 = 8'b11011101; 
+        
+        #10 sel = 2'b00;
+        #10 sel = 2'b01;
+        #10 sel = 2'b10;
+        #10 sel = 2'b11;
+
+        #10 d1 = 8'b11111111; 
+            sel = 2'b01;
+        #10 $display("Testing ended.");
+        $stop;
+    end
+endmodule

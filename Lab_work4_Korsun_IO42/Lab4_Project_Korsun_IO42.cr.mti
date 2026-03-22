@@ -1,4 +1,11 @@
-C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Ex2_Korsun_IO42_XOR.v {1 {vlog -work work C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Ex2_Korsun_IO42_XOR.v
+C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Lab4_Korsun_IO42.v {1 {vlog -work work C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Lab4_Korsun_IO42.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Lab4_korsun_IO42
+
+Top level modules:
+	Lab4_korsun_IO42
+
+} {} {}} C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Ex2_Korsun_IO42_XOR.v {1 {vlog -work work C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work4_Korsun_IO42/Ex2_Korsun_IO42_XOR.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module Ex2_XOR
 
