@@ -17,29 +17,29 @@ Z8 OV;L;10.1d;51
 r1
 !s85 0
 31
-!s108 1774122946.356000
+!s108 1774384904.972000
 !s107 C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work5_Korsun_IO42/Lab5_Korsun_multiplexer.v|
 Z9 !s90 -reportprogress|300|-work|work|C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work5_Korsun_IO42/Lab5_Korsun_multiplexer.v|
 !s101 -O0
 Z10 o-work work -O0
 Z11 n@lab5_@korsun_multiplexer
 vtb_Lab5_Korsun_multiplexer
-Z12 !s100 G27]^LZ[BSi7^K4TFad:g2
-Z13 I4Xc`V813^6Hz0^I8F<8co0
-Z14 VUNgzYNlS9giSalgcmbdeI3
+Z12 IICFHaHY`<AA@=1mR5OnYB0
+Z13 VUNgzYNlS9giSalgcmbdeI3
 R4
-Z15 w1774122858
-Z16 8C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work5_Korsun_IO42/tb_Lab5_Korsun_multiplexer.v
-Z17 FC:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work5_Korsun_IO42/tb_Lab5_Korsun_multiplexer.v
+Z14 w1774384882
+Z15 8C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work5_Korsun_IO42/tb_Lab5_Korsun_multiplexer.v
+Z16 FC:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work5_Korsun_IO42/tb_Lab5_Korsun_multiplexer.v
 L0 3
 R8
 r1
 31
-Z18 !s90 -reportprogress|300|-work|work|C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work5_Korsun_IO42/tb_Lab5_Korsun_multiplexer.v|
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work5_Korsun_IO42/tb_Lab5_Korsun_multiplexer.v|
 R10
-Z19 ntb_@lab5_@korsun_multiplexer
+Z18 ntb_@lab5_@korsun_multiplexer
 !i10b 1
+Z19 !s100 1EEWjVa`bcWXjaeV<mz>_2
 !s85 0
-Z20 !s108 1774122946.268000
+Z20 !s108 1774384904.884000
 Z21 !s107 C:/Users/Comp/Desktop/KPI/Git_repos_digital_circuit_design/Lab_work5_Korsun_IO42/tb_Lab5_Korsun_multiplexer.v|
 !s101 -O0

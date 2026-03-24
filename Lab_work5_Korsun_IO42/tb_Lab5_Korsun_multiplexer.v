@@ -21,6 +21,7 @@ module tb_Lab5_Korsun_multiplexer;
         d2 = 8'b11001100; 
         d3 = 8'b11011101; 
         
+        sel = 2'b00;
         #10 sel = 2'b00;
         #10 sel = 2'b01;
         #10 sel = 2'b10;
